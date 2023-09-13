@@ -1,0 +1,11 @@
+body{
+    box-sizing: border-box;
+    background-color: #fff;
+    font-family: poppins latin;
+}
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+}
